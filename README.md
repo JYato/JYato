@@ -2,15 +2,14 @@
 <h1 align="center">Hi 👋, I'm Jeisson</h1>
 <h3 align="center">Student with experience in frontend development with Angular and React. MERN and MEAN developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyato&label=Profile%20views&color=0e75b6&style=flat" alt="jyato" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyato&label=Profile%20views&color=0e75b6&style=flat" alt="jyato" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyato" alt="jyato" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyato" alt="jyato" /></a> </p> -->
 
 - 👯 I’m looking to collaborate on **on some of your ideas.**
 
 - 📫 Reach me **jeisson.yato@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
