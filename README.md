@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jeisson</h1>
 <h3 align="center">Student with experience in frontend development with Angular and React. MERN and MEAN developer.</h3>
 
