@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeisson</h1>
 <h3 align="center">A self-taught FullStack Developer with experience in frontend with Angular and React (Next.js), and backend development with Node.js, Laravel, Python, and Java.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyato" alt="jyato" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyato&title=MultiLanguage,Commits,Repositories,Followers,PullRequest" alt="jyato" /></a> </p>
 
 - 🔭 I’m currently working on **Typescript and Odoo (Python) Projects**
 
